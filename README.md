@@ -1,7 +1,5 @@
 # 👥 HR Workforce Dashboard
 
-![HR Thumbnail](hr_thumbnail.png)
-
 📊 An interactive Power BI dashboard analyzing HR workforce metrics such as employee distribution, salary trends, and hiring patterns — powered by **SQL**, **Python**, and **Power BI**.
 
 ---
