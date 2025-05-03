@@ -79,3 +79,18 @@ SELECT department_name, COUNT(*) AS total_employees
 FROM employees
 GROUP BY department_name
 ORDER BY total_employees DESC;
+
+---
+
+## 🧠 SQL Behind the Dashboard
+
+This dashboard is powered by a full suite of SQL queries and PL/SQL exercises written in Oracle SQL Developer. These scripts include:
+
+- ➕ Aggregations for salary and employee counts  
+- 🔁 Cursors and control structures  
+- 🧪 Conditionals and exception handling  
+- 🧰 Subprograms for custom logic
+
+📂 **Explore the full SQL exercises repo here:**  
+[🔗 HR SQL Exercises Repository](https://github.com/Dionte18Cape/HR_SQL_Exercises)
+
